@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../.github/copilot-instructions.md" />
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="ConsoleSampleApp/ConsoleSampleApp.csproj" />
+</Solution>
